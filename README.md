@@ -4,7 +4,7 @@ INFO 5310<br/>
 Fall 2015<br/>
 Prof. Mor Naaman<br/>
 Cornell Tech<br/>
-Wednesdays, 10:15am-12:00pm
+Wednesdays, 10:15am-1:00pm
 
 \#psySocial
 
