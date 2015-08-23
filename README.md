@@ -1,14 +1,11 @@
 # Psychological and Social Aspects of Connective Media
 
-INFO 5310<br/>
-Fall 2015<br/>
+INFO 5310, Fall 2015<br/>
 Prof. Mor Naaman<br/>
 Cornell Tech<br/>
 Wednesdays, 10:15am-1:00pm
 
 \#psySocial
-
-#### [Week-by-week deliverables and requirements]()
 
 ## What is this Course?
 Connective Media is the study of the artifacts, technologies, processes and ecosystems that are involved in the recent convergence of communication, information, and media. Connective Media is changing the way that we behave as a society: the way we act, the way we get information, the way we diffuse information, the way we shape our views and our culture. To innovate and excel in this landscape, students need skills and knowledge from technology, the social sciences, business, and design. 
@@ -38,6 +35,19 @@ This is the week-by-week plan:
 |:----------|:------|:----------|:--------------|:----------|
 |1<br/>8/26|Intro to Everything | to understand you are not just builders, and there is a lot they need to know if they want to understand the human and social aspects of Connective Media.| Nothing | Nothing |
 |2<br/>9/2| Perception and Attention | to build systems that cater to how people perceive and pay attention to information | [Chun et al, 2011](https://github.com/cornelltech/psysocial2015/wiki/Readings#Chun2011), [Healey & Enns, 2012](https://github.com/cornelltech/psysocial2015/wiki/Readings#Healey2012) | Nothing |
+|3 | | | | | 
+|4 | | | | | 
+|5 | | | | | 
+|6 | | | | | 
+|7 | | | | | 
+|8 | | | | | 
+|9 | | | | | 
+|10 | | | | | 
+|11 | | | | | 
+|12 | | | | | 
+|13 | | | | | 
+|14 12/2 | | | | | 
+
 
 \* subject to change based on class input
 
