@@ -8,24 +8,20 @@ Wednesdays, 10:15am-1:00pm
 \#psySocial
 
 ## What is this Course?
-Connective Media is the study of the artifacts, technologies, processes and ecosystems that are involved in the recent convergence of communication, information, and media. Connective Media is changing the way that we behave as a society: the way we act, the way we get information, the way we diffuse information, the way we shape our views and our culture. To innovate and excel in this landscape, students need skills and knowledge from technology, the social sciences, business, and design. 
+Connective Media is the study of the artifacts, technologies, processes and ecosystems that are involved in the recent convergence of communication, information, and media. Connective Media is changing the way that we behave as a society: the way we act, the way we get information, the way we diffuse information, the way we shape our views and our culture. To innovate and excel in this landscape, students need skills and knowledge from technology, the social sciences, business, and design.
 
-This course will cover the cognitive, behavioral and social science background that is paramount to understanding the connective media landscape.
+This course, the core course in the Connective Media Human and Social track, explores the psychological and sociological foundations of communication technology and the information sciences. The course focuses on the theories from the cognitive, behavioral and social sciences that play a role in understanding people’s use of, access to and interactions with information and communication technologies. The course will examine multiple levels of analysis – individual, social, and collectives – and present multiple disciplinary perspectives. The course has three primary goals:
+
+* Provide an introduction to theories and approaches to understanding the use of current information technologies, to identify needs that are not currently being met, and to inform the design of future IT.
+* Familiarize the students with the interdisciplinary literature relevant to understanding the connective media landscape.
+* Expose students to knowledge and language from a variety of scholarly domains.
+* Introduce students to ideas, as well as styles of research and writing in psychology, sociology and other relevant fields of science, with a focus on being able to understand research reports, at least at a basic level.
 
 ### Key Threads
-
 - **Individual** - Cognitive and behavioral science approaches to attention, perception, reasoning and decision-making.
 - **Social** - Social-psychological approaches to motivation, language and identity.
 - **Social Systems** - Behavioral and sociological approaches to social systems including groups, social ties, and social networks.
 
-## Class Objectives
-
-This course, the core course in the Connective Media Human and Social track, explores the behavioral foundations of communication technology and the information sciences. The course focuses on the theories from the behavioral sciences that play a role in understanding people’s use of, access to and interactions with information and communication technologies. The course will examine multiple levels of analysis – individual, social, and collectives – and present multiple disciplinary perspectives. The course has three primary goals:
-
-*	Provide an introduction to social science theories and approaches to understanding the use of current information technologies, to identify needs that are not currently being met, and to inform the design of future IT. 
-*	Familiarize the students with the interdisciplinary literature relevant to understanding the connective media landscape.
-*	Expose students to knowledge and language from a variety of scholarly domains.
-*	Introduce students to ideas, as well as styles of research and writing in the social sciences, with a focus on being able to understand research reports, at least at a basic level. 
 
 ## Week-by-week
 
