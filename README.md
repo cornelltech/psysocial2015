@@ -37,7 +37,7 @@ This is the week-by-week plan:
 | Week/Date | Title | Why | Readings | Due |
 |:----------|:------|:----------|:--------------|:----------|
 |1<br/>8/26|Intro to Everything | to understand you are not just builders, and there is a lot they need to know if they want to understand the human and social aspects of Connective Media.| Nothing | Nothing |
-|2<br/>9/2| Perception and Attention | to build systems that cater to how people perceive and pay attention to information | (Chun et al, 2011), (Healey & Enns, 2012) | Nothing |
+|2<br/>9/2| Perception and Attention | to build systems that cater to how people perceive and pay attention to information | [Chun et al, 2011](https://github.com/cornelltech/psysocial2015/wiki/Readings#Chun2011), <a href="https://github.com/cornelltech/psysocial2015/wiki/Readings#Healey2012">(Healey & Enns, 2012)</a> | Nothing |
 
 \* subject to change based on class input
 
