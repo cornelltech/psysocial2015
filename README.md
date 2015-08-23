@@ -15,6 +15,12 @@ Connective Media is the study of the artifacts, technologies, processes and ecos
 
 This course will cover the cognitive, behavioral and social science background that is paramount to understanding the connective media landscape.
 
+### Key Threads
+
+- **Individual** - Cognitive and behavioral science approaches to attention, perception, reasoning and decision-making.
+- **Social** - Social-psychological approaches to motivation, language and identity.
+- **Social Systems** - Behavioral and sociological approaches to social systems including groups, social ties, and social networks.
+
 ## Class Objectives
 
 This course, the core course in the Connective Media Human and Social track, explores the behavioral foundations of communication technology and the information sciences. The course focuses on the theories from the behavioral sciences that play a role in understanding people’s use of, access to and interactions with information and communication technologies. The course will examine multiple levels of analysis – individual, social, and collectives – and present multiple disciplinary perspectives. The course has three primary goals:
@@ -28,10 +34,10 @@ This course, the core course in the Connective Media Human and Social track, exp
 
 This is the week-by-week plan:
 
-| Week/Date | Title | Why | Readings/people  | Due |
+| Week/Date | Title | Why | Readings | Due |
 |:----------|:------|:----------|:--------------|:----------|
-|1<br/>8/26|Intro to Everything | Understand you are not just builders, and there is a lot they need to know if they want to understand the human and social aspects of Connective Media.| Nothing | Nothing |
-
+|1<br/>8/26|Intro to Everything | to understand you are not just builders, and there is a lot they need to know if they want to understand the human and social aspects of Connective Media.| Nothing | Nothing |
+|2<br/>9/2| Perception and Attention | to build systems that cater to how people perceive and pay attention to information | (Chun et al, 2011), (Healey & Enns, 2012) | Nothing |
 
 \* subject to change based on class input
 
@@ -59,7 +65,7 @@ Class participation is part of the grade, and is function of the quantity and qu
 
 ### Exams
 
-There are no exams. 
+There are no exams. Yay!
 
 ## Grades 
 
@@ -73,28 +79,24 @@ Note: the average grade in this class is likely to be a B or B+. You will need t
 
 M.Eng and MBA students may take the class for a grade or pass-fail with prior approval. All the requirements for class would still stand. To get a passing grade, a student would need a C and above grade for each of the class components. 
 
-## Key Threads
-
-- **Individual** - key elements in CM product design.
-- **Social** - Key product aspects that drive the CM business.
-- **Social Systems** - Key technologies that are used in CM systems.
-
 ## Class Presentations
 
 <a name="presreq">
 ### Requirements and procedures </a>
 
-Class presentations will be assigned by the instructor, based on student preferences. 
+Class presentations will be assigned by the teaching team. 
 
-The basic presentations should be 15 minutes long, strictly enforced, but the presenters should lead an additional 10-15 minutes of discussion. The initial presentation should briefly touch on:
--   The main design decisions made by the different applications/services
--   How these decisions impact the service in different ways, including: types of usage, nature of content, retention, patterns of consumption etc.
+The basic presentations should be 15 minutes long, strictly enforced, but the presenters should *lead an additional 10-15 minutes of discussion*. The initial presentation should briefly touch on:
+*	The main theory/argument of the article/reading
+*	The methods used to support the argument
+*	The implications of the article for connective media technologies.
 
-The presenters will use examples and screenshots from the services they compare, and for extra credit, identify and discuss additional scholarly articles that are related to the service types. These articles could be a) describing a related theory, or b) studying and providing insights about the services or other related platforms and systems. I will be available to provide some pointers and directions as needed; you will need to approach me by Sunday before your presentation, at the latest, to get help.
+The presenter will also identify and discuss additional scholarly articles that are related to the reading. These articles could be a) describing a related theory, or b) offering a critique of the original article, or c) showing how the theory presented in the article is used in a technical system. The teaching team will be available to provide some pointers and directions as needed; you will need to approach us by the Friday before your presentation, at the latest, to get assistance.
+The discussion you lead could be woven into your presentation. Bonus points for original ways to lead or encourage discussion and participation! 
 
-The presentation and discussion after may also refer to past/future trends for this category. What's next for these types of services? Bonus points for original ways to lead or encourage discussion and participation! 
+While the presentations are done in pairs, each presentation should be 100% coherent and consistent. In other words, presentations that are clearly based on "split work" where each partner is respobsible for her/his own part are unacceptable. Work together to create a flowing, coherent and meaningful presentation! 
 
-Your presentation grade will be based on the quality and clarity of your presentation and the discussion.
+Your presentation grade will be based on the quality and clarity of your presentation and the discussion. 
 
 ## The teaching team
 
@@ -108,8 +110,8 @@ When to find him: email to schedule time to chat
 
 ### Xiao Ma
 Teaching Assistant, PhD Student, and Fire Starter<br/>
-nir -AT- cs.cornell.edu<br/>
-@maxiao
+xiao -AT- jacobs.cornell.edu<br/>
+@infoxiao
 
 Where to find her: hiding behind Mor<br/>
 When to find her: email to schedule time to chat<br/>
