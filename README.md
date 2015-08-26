@@ -25,24 +25,24 @@ This course, the core course in the Connective Media Human and Social track, exp
 
 ## Week-by-week
 
-This is the week-by-week plan:
+This is the week-by-week plan. RR = Reading Responses. 
 
 | Week/Date | Title | Why | Readings | Due |
 |:----------|:------|:----------|:--------------|:----------|
 |1<br/>8/26| Intro to Everything | to understand you are not just builders, and there is a lot they need to know if they want to understand the human and social aspects of Connective Media.| Nothing | Nothing |
-|2<br/>9/2| Perception and Attention | to build systems that cater to how people perceive and pay attention to information | [Chun et al, 2011](https://github.com/cornelltech/psysocial2015/wiki/Readings#Chun2011), [Healey & Enns, 2012](https://github.com/cornelltech/psysocial2015/wiki/Readings#Healey2012) | Nothing |
-|3<br/>9/9 | Cognition | to design technology that matches people’s mental processing models and capabilities | | | 
-|4<br/>9/16 | Learning | to design technologies that people can learn, remember, and adopt as habit | | 
-|5<br/>9/23 | Motivation and Goals | understand what propels people to better perform, achieve goals, and complete tasks | | | 
-|6<br/>9/30 | Influence and Persuasion | to design technologies that steer people towards favorable choices | | | 
-|7<br/>10/7 | Language and Communication | to build systems that effectively use the characteristics of verbal and non-verbal communication | | | 
-|8<br/>10/14 | Identity and Personality | to understand how basic theories of personality and identity can inform system design | | | 
-|9<br/>10/21 | Groups and Collectives | to use groups and collectives effectively in coordination, communication and mobilization | | | 
-|10<br/>10/28 | Social Ties | to design systems that effectively use and support different types of relationships | | | 
-|11<br/>11/4 | Social Networks | to understand the structure and effect of the social networks that underlie media services | | | 
-|12<br/>11/11 | Trust and Local Community | | | | 
-|13<br/>11/18 | Class Presentations | | | | 
-|14<br/>12/2 | Data and Algorithms | | | | 
+|2<br/>9/2| Perception and Attention | to build systems that cater to how people perceive and pay attention to information | [Chun et al, 2011](https://github.com/cornelltech/psysocial2015/wiki/Readings#Chun2011), [Healey & Enns, 2012](https://github.com/cornelltech/psysocial2015/wiki/Readings#Healey2012) | RR |
+|3<br/>9/9 | Cognition | to design technology that matches people’s mental processing models and capabilities | | RR | 
+|4<br/>9/16 | Learning | to design technologies that people can learn, remember, and adopt as habit | | RR | 
+|5<br/>9/23 | Motivation and Goals | understand what propels people to better perform, achieve goals, and complete tasks | | RR | 
+|6<br/>9/30 | Influence and Persuasion | to design technologies that steer people towards favorable choices | | RR | 
+|7<br/>10/7 | Language and Communication | to build systems that effectively use the characteristics of verbal and non-verbal communication | | RR | 
+|8<br/>10/14 | Identity and Personality | to understand how basic theories of personality and identity can inform system design | | RR | 
+|9<br/>10/21 | Groups and Collectives | to use groups and collectives effectively in coordination, communication and mobilization | | RR | 
+|10<br/>10/28 | Social Ties | to design systems that effectively use and support different types of relationships | | RR | 
+|11<br/>11/4 | Social Networks | to understand the structure and effect of the social networks that underlie media services | | RR | 
+|12<br/>11/11 | Trust and Local Community | | | RR | 
+|13<br/>11/18 | Class Presentations | | | Replication Assignment | 
+|14<br/>12/2 | Data and Algorithms | | | RR | 
 
 
 \* subject to change based on class input
