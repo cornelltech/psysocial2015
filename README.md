@@ -32,7 +32,7 @@ This is the week-by-week plan. RR = Reading Responses.
 |:----------|:------|:----------|:--------------|:----------|
 |1<br/>8/26| Intro to Everything | to understand you are not just builders, and there is a lot they need to know if they want to understand the human and social aspects of Connective Media.| Nothing | Nothing |
 |2<br/>9/2| Perception and Attention | to build systems that cater to how people perceive and pay attention to information | [Chun et al, 2011](https://github.com/cornelltech/psysocial2015/wiki/Readings#Chun2011), [Healey & Enns, 2012](https://github.com/cornelltech/psysocial2015/wiki/Readings#Healey2012) | RR |
-|3<br/>9/9 | Cognition | to design technology that matches people’s mental processing models and capabilities | | RR | 
+|3<br/>9/9 | Cognition | to design technology that matches people’s mental processing models and capabilities | [Kahneman 2011](https://github.com/cornelltech/psysocial2015/wiki/Readings#Kahneman2011), [Evans 2008](https://github.com/cornelltech/psysocial2015/wiki/Readings#Evans2008) | RR | 
 |4<br/>9/16 | Learning | to design technologies that people can learn, remember, and adopt as habit | | RR | 
 |5<br/>9/23 | Motivation and Goals | understand what propels people to better perform, achieve goals, and complete tasks | | RR | 
 |6<br/>9/30 | Influence and Persuasion | to design technologies that steer people towards favorable choices | | RR | 
