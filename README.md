@@ -1,5 +1,5 @@
 # Psychological and Social Aspects of Connective Media
-### A Cornell Tech course 
+### A Cornell Tech Course 
 
 INFO 5310, Fall 2015<br/>
 Prof. Mor Naaman<br/>
