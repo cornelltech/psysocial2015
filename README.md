@@ -33,17 +33,17 @@ This is the week-by-week plan. RR = Reading Responses.
 |1<br/>8/26| Intro to Everything | to understand you are not just builders, and there is a lot they need to know if they want to understand the human and social aspects of Connective Media.| Nothing | Nothing |
 |2<br/>9/2| Perception and Attention | to build systems that cater to how people perceive and pay attention to information | [Chun et al, 2011](https://github.com/cornelltech/psysocial2015/wiki/Readings#Chun2011), [Healey & Enns, 2012](https://github.com/cornelltech/psysocial2015/wiki/Readings#Healey2012) | RR |
 |3<br/>9/9 | Cognition | to design technology that matches people’s mental processing models and capabilities | [Kahneman 2011](https://github.com/cornelltech/psysocial2015/wiki/Readings#Kahneman2011), [Evans 2008](https://github.com/cornelltech/psysocial2015/wiki/Readings#Evans2008) | RR | 
-|4<br/>9/16 | Learning | to design technologies that people can learn, remember, and adopt as habit | | RR | 
-|5<br/>9/23 | Motivation and Goals | understand what propels people to better perform, achieve goals, and complete tasks | | RR | 
-|6<br/>9/30 | Influence and Persuasion | to design technologies that steer people towards favorable choices | | RR | 
-|7<br/>10/7 | Language and Communication | to build systems that effectively use the characteristics of verbal and non-verbal communication | | RR | 
-|8<br/>10/14 | Identity and Personality | to understand how basic theories of personality and identity can inform system design | | RR | 
-|9<br/>10/21 | Groups and Collectives | to use groups and collectives effectively in coordination, communication and mobilization | | RR | 
-|10<br/>10/28 | Social Ties | to design systems that effectively use and support different types of relationships | | RR | 
-|11<br/>11/4 | Social Networks | to understand the structure and effect of the social networks that underlie media services | | RR | 
+|4<br/>9/16 | Learning | to design technologies that people can learn, remember, and adopt as habit | [Shohamy & Daw](https://github.com/cornelltech/psysocial2015/wiki/Readings#Shohamy),[Bandura & Ross 1963](https://github.com/cornelltech/psysocial2015/wiki/Readings#Bandura1963) | RR | 
+|5<br/>9/23 | Motivation and Goals | understand what propels people to better perform, achieve goals, and complete tasks | [Ryan & Deci 2000](https://github.com/cornelltech/psysocial2015/wiki/Readings#Ryan2000), [Locke & Bryan 1967](https://github.com/cornelltech/psysocial2015/wiki/Readings#Locke1967) | RR | 
+|6<br/>9/30 | Influence and Persuasion | to design technologies that steer people towards favorable choices | [Thaler & Sunstein 2008](https://github.com/cornelltech/psysocial2015/wiki/Readings#Thaler2008), [Fogg 2002](https://github.com/cornelltech/psysocial2015/wiki/Readings#Foog2002) | RR | 
+|7<br/>10/7 | Language and Communication | to build systems that effectively use the characteristics of verbal and non-verbal communication | [Walther 2011](https://github.com/cornelltech/psysocial2015/wiki/Readings#Walther2011), [Tausczik & Pennebaker 2010](https://github.com/cornelltech/psysocial2015/wiki/Readings#Tausczik2010) | RR | 
+|8<br/>10/14 | Identity and Personality | to understand how basic theories of personality and identity can inform system design | [Gonzales & Hancock 2008](https://github.com/cornelltech/psysocial2015/wiki/Readings#Gonzales2008), [Back et al, 2010](https://github.com/cornelltech/psysocial2015/wiki/Readings#Back2010), AND [John et al, 2008](https://github.com/cornelltech/psysocial2015/wiki/Readings#John2008) | RR | 
+|9<br/>10/21 | Groups and Collectives | to use groups and collectives effectively in coordination, communication and mobilization | [Tajfel et al, 1971](https://github.com/cornelltech/psysocial2015/wiki/Readings#Tajfel1971), [Karau & Williams 1997](https://github.com/cornelltech/psysocial2015/wiki/Readings#Karau1997) | RR | 
+|10<br/>10/28 | Social Ties | to design systems that effectively use and support different types of relationships | [Granovetter 1983](https://github.com/cornelltech/psysocial2015/wiki/Readings#Granovetter1983), [Putnam 2001](https://github.com/cornelltech/psysocial2015/wiki/Readings#Putnam2001) | RR | 
+|11<br/>11/4 | Social Networks | to understand the structure and effect of the social networks that underlie media services | [Watts 2004](https://github.com/cornelltech/psysocial2015/wiki/Readings#Watts2004), [Onnela et al, 2007](https://github.com/cornelltech/psysocial2015/wiki/Readings#Onnela2007) | RR | 
 |12<br/>11/11 | Trust and Local Community | | | RR | 
 |13<br/>11/18 | Class Presentations | | | Replication Assignment | 
-|14<br/>12/2 | Data and Algorithms | | | RR | 
+|14<br/>12/2 | Data and Algorithms | | [Gillespie 2004](https://github.com/cornelltech/psysocial2015/wiki/Readings#Gillespie2004), [Boyd & Crawford 2012](https://github.com/cornelltech/psysocial2015/wiki/Readings#Boyd2012) | RR | 
 
 
 \* subject to change based on class input
