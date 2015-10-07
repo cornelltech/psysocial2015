@@ -60,6 +60,8 @@ In randomly-assigned teams of two, each student will take part in two class pres
 
 ### Assignment: Replication
 
+[Assignment Requirement Link](https://github.com/cornelltech/psysocial2015/wiki/Replication-Assignment)
+
 The only major assignment is a Replication experiment, where you will be replicating a behavioral/social science experiment of your choice. Details forthcoming, but start thinking about experiments you'd like to run! This assignment is performed in groups of 2 or 3. 
 
 ### Attendance
